@@ -11,11 +11,7 @@
 <!-- Bootstrap Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
-<<<<<<< HEAD
-        <a class="navbar-brand" href="#">"Added Bootstrap template and Home controller"</a>
-=======
-        <a class="navbar-brand" href="#">CI ITE311</a>
->>>>>>> 88b7845 (Initial commit - CodeIgniter setup)
+        <a class="navbar-brand" href="#">Added Bootstrap template and Home controller</a>
     </div>
 </nav>
 
