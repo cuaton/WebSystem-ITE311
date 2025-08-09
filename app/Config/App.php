@@ -16,7 +16,11 @@ class App extends BaseConfig
      *
      * E.g., http://example.com/
      */
+<<<<<<< HEAD
     public string $baseURL = 'http://localhost/ITE311-CUATON/public/';
+=======
+    public string $baseURL = 'http://localhost:8080/';
+>>>>>>> 88b7845 (Initial commit - CodeIgniter setup)
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.

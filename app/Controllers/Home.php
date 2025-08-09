@@ -12,4 +12,7 @@ class Home extends BaseController
         return view('template', $data);
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 88b7845 (Initial commit - CodeIgniter setup)

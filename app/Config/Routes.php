@@ -7,5 +7,8 @@ use CodeIgniter\Router\RouteCollection;
  */
 $routes->get('/', 'Home::index');
 $routes->get('home', 'Home::index');
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 88b7845 (Initial commit - CodeIgniter setup)
