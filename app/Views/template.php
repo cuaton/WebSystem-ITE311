@@ -11,7 +11,7 @@
 <!-- Bootstrap Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">CI ITE311</a>
+        <a class="navbar-brand" href="#">Bootstrap template and Home controller</a>
     </div>
 </nav>
 
