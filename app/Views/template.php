@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ITE311 Web System</title>
+    <title>LAB 1</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="bg-light">
@@ -13,7 +13,7 @@
         </div>
     </nav>
     <div class="container text-center mt-5">
-        <h1 class="display-3 fw-bold">Welcome to ITE311 Web System</h1>
+        <h1 class="display-3 fw-bold">Welcome to ITE311 WEB SYSTEM</h1>
         <p class="lead mt-3">
             This is My homepage after using
             <a href="https://codeigniter.com/" target="_blank">CodeIgniter</a>
